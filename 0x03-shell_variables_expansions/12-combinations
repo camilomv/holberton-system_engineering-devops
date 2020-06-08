@@ -1,27 +1,2 @@
-Script started on Mon 08 Jun 2020 11:07:13 PM UTC
-vagrant@vagrant-ubuntu-trusty-64:~/holberton-system_engineering-devops/0x03-shell_variables_expa
-nsions$ ./12-cm[Kombinagtion[K[K[K[K[Ktions
-bash: ./12-combinations: Permission denied
-vagrant@vagrant-ubuntu-trusty-64:~/holberton-system_engineering-devops/0x03-shell_variables_expa
-nsions$ git[K[K[Kchmod u+x 12-combinations 
-vagrant@vagrant-ubuntu-trusty-64:~/holberton-system_engineering-devops/0x03-shell_variables_expa
-nsions$ git add 12-combinations 
-vagrant@vagrant-ubuntu-trusty-64:~/holberton-system_engineering-devops/0x03-shell_variables_expa
-nsions$ git commit -m "Tas [Kk 12"
-[master 9956f08] Task 12
- 1 file changed, 0 insertions(+), 0 deletions(-)
- create mode 100755 0x03-shell_variables_expansions/12-combinations
-vagrant@vagrant-ubuntu-trusty-64:~/holberton-system_engineering-devops/0x03-shell_variables_expa
-nsions$ git put[Ksh orini[K[Kgin mass[Kter
-Username for 'https://github.com': camilomv
-Password for 'https://camilomv@github.com': 
-Counting objects: 6, done.
-Compressing objects:  33% (1/3)   Compressing objects:  66% (2/3)   Compressing objects: 100% (3/3)   Compressing objects: 100% (3/3), done.
-Writing objects:  25% (1/4)   Writing objects:  50% (2/4)   Writing objects:  75% (3/4)   Writing objects: 100% (4/4)   Writing objects: 100% (4/4), 335 bytes | 0 bytes/s, done.
-Total 4 (delta 2), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
-To https://github.com/camilomv/holberton-system_engineering-devops.git
-   9573ca4..9956f08  master -> master
-vagrant@vagrant-ubuntu-trusty-64:~/holberton-system_engineering-devops/0x03-shell_variables_expa
-nsions$ emacs 12-combinations 
-7[?47h[H[J[19d[K[2J[?47l8[39;49m7[?47h[H[J[18d[7m-UUU:----F1  [0m[39;49m[27m[7m[1m*scratch*   [0m[39;49m[27m[7m   All L1     (Fundamental) --------------------------------------------[0m[39;49m[27m[A[2d[19dLoading 00debian-vars...[K[2;1H[19;25Hdone[2;1H[19;9H/etc/emacs/site-start.d/50git-core.el (source)...[2;1H[19;58Hdone[2;1H[19dFor information about GNU Emacs and the GNU system, type C-h C-a.[2;1H[19dLoading vc-git...[K[2;1H[19;18Hdone[2;1H[19dLoading vc-git...done[K[H[7mFile Edit Options Buffers Tools Help                                                             [0m[39;49m[27m[A[B[K[B[K[B[K[B[K[B[K[B[K[B[K[B[K[B[K[B[K[B[K[B[K[B[K[B[K[B[K[B[K[B[7m-UUU:----F1  [0m[39;49m[27m[7m[1m12-combinations[0m[39;49m[27m[7m   All L1    Git-master  (Fundamental) ------------------------------[0m[39;49m[27m[A[2d[19dBeginning of buffer[K[2;1H[19dEnd[6P[2;1H[19dBeg[6@inning[2;1H[19dEnd[6P[2;1H[19dBeg[6@inning[2;1H[19dEnd[6P[2;1H[19d[K[2dc[18;6H[7m**[0m[39;49m[27m[2;2Hh[K[K[19dBeginning of buffer[2;1H[19d[K[2d#!/bin/bash[18;37H[7m2[0m[39;49m[27m[3;1Hecho[C[19;1HAuto-saving...[3;6H[19;15Hdone[3;6H[19;1H[K[3;6H{a..z}[3;6H[3;13H{A..Z}[3;20H{A..Z}[K[CaA..Z}..Z}[K[C	}[Kz}[C[18;37H[7m3[0m[39;49m[27m[4;1H[18;37H[7m2[0m[39;49m[27m[3;18H[18;37H[7m3[0m[39;49m[27m[4;1H[18;37H[7m2[0m[39;49m[27m[3;18H[18;37H[7m3[0m[39;49m[27m[4;1H[C[19;1HEnd of buffer[4;2H[19;1H[K[4d[18;37H[7m2[0m[39;49m[27m[3;18H[18;37H[7m3[0m[39;49m[27m[4;1H[19dEnd of buffer[4;1H[19d[K[4d[19d[36mombinations? (y, n, !, ., q, C-r, d or C-h) [39;49m[17;1H[7m-UUU:**--F1  [0m[39;49m[27m[7m[1m12-combinations[0m[39;49m[27m[7m   All L3    Git-master  (Fundamental) ------------------------------[0m[39;49m[27m[36mSave file /home/vagrant/holberton-system_engineering-devops/0x03-shell_variables_expansions/12-c[39;49m\[19;45Hombinations? (y, n, !, ., q, C-r, d or C-h) y[ASave file /home/vagrant/holberton-system_engineering-devops/0x03-shell_variables_expan
+#!/bin/bash
+echo {a..z}{a..z} /oo
